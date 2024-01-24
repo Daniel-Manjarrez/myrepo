@@ -1,5 +1,6 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-    printf("Hello ASP!\n");
+    printf("Goodbye AP!\n");
+    printf("Hello ASP! xD\n");
 }
