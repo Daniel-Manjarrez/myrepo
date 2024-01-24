@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
+    printf("Added from main branch\n");
     printf("Goodbye AP!\n");
     printf("Hello ASP! xD\n");
-    printf("Added from dev branch\n");
-    printf("Branching is epic!\n");
 
-    printf("Cool GitHub");
+    printf("Inspecting the index!\n");
+    printf("Time to push\n");
 }
